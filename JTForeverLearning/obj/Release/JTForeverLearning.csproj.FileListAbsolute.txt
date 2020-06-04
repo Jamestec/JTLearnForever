@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\JTForeverLearning\bin\Win64_Shipping_Client\JTForeverLearning.dll
+C:\Program Files (x86)\Steam\steamapps\common\Mount & Blade II Bannerlord\Modules\JTForeverLearning\bin\Win64_Shipping_Client\JTForeverLearning.pdb
+C:\Users\JamesTemp\source\repos\JTForeverLearning\JTForeverLearning\obj\Release\JTForeverLearning.csprojAssemblyReference.cache
+C:\Users\JamesTemp\source\repos\JTForeverLearning\JTForeverLearning\obj\Release\JTForeverLearning.csproj.CoreCompileInputs.cache
+C:\Users\JamesTemp\source\repos\JTForeverLearning\JTForeverLearning\obj\Release\JTForeverLearning.dll
+C:\Users\JamesTemp\source\repos\JTForeverLearning\JTForeverLearning\obj\Release\JTForeverLearning.pdb
